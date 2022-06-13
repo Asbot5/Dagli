@@ -1,0 +1,55 @@
+﻿@page
+@model Dagli.Pages.Products.AllProductsModel
+@{ ViewData["Title"] = "Alle Produkter";
+}
+
+<h1 class="pageTitle">Alle Produkter</h1>
+
+@if (Model.Products != null && Model.Products.Count > 0)
+{<h5>Mængden af produkter er : @Model.Products.Count</h5>}
+else
+{ <h5>Mængden af produkter er : 0</h5>}
+
+@if (Model.adminLogIn == 1)
+{
+    <form>
+        <button asp-page="CreateProduct"
+                class="btn btn-primary">
+            Tilføj Produkt
+        </button>
+    </form>
+}
+<br />
+<form>
+    <p>
+        Filter varetype: <input type="text" asp-for="Filter" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<div class="grid">
+    <div class="row">
+        @foreach (Product item in Model.Products.Values)
+        {
+            <div class="productInGrid">
+                <a asp-page="SingleProduct" asp-route-id="@item.ID"> <img class="img-thumbnail" src="~/Images/@item.ImageName"></a>
+
+                <ul>
+                    <li><a asp-page="SingleProduct" asp-route-id="@item.ID"><b>@item.Name</b></a></li>
+                    <li style="font-size: 10px;">Varetype: @item.ProductType</li>
+                    <li style="font-size: 10px;">Varenr. @item.ID</li>
+                </ul>
+                <form method="post">
+                    <div class="button">
+                        <label>
+                            <input id="cartImg" type="image" src="~/Images/cart.svg"
+                                   class="btn btn-success btn-group-lg"
+                                   asp-page-handler="AddToCart" asp-route-id="@item.ID" />
+                        </label>
+                    </div>
+                </form>
+                <p>Pris <b>@item.Price</b> kr</p>
+            </div>
+        }
+    </div>
+</div>

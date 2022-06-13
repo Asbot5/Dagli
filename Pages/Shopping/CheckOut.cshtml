@@ -1,0 +1,88 @@
+﻿@page
+@model Dagli.Pages.Shopping.CheckOutModel
+@{
+    ViewData["Title"] = "Check Out";
+}
+
+@if (Model.validUser == 1)
+{
+<div class="row justify-content-center">
+    <div class="col-auto">
+        <table class="table table-responsive userTable">
+            <thead>
+                <tr>
+                    <th class="text-center" colspan="2">Bruger Information</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">Email</th>
+                    <td>@Model.UserLogin.Email</td>
+                </tr>
+                <tr>
+                    <th scope="row">Navn</th>
+                    <td>@Model.UserLogin.Name</td>
+                </tr>
+                <tr>
+                    <th scope="row">Vej</th>
+                    <td>@Model.UserLogin.Street</td>
+                </tr>
+                <tr>
+                    <th scope="row">Postnummer</th>
+                    <td>@Model.UserLogin.ZipCode</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+}
+else
+{
+    <h2 class="pageTitle">Du skal være logget ind for at betale. Klik <a asp-page="/LoginService/LoginToSide">her</a> for at logge ind.</h2>
+}
+<h5>Indkøbskurv</h5>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Produkt</th>
+            <th>Type</th>
+            <th>Billede</th>
+            <th>Antal</th>
+            <th class="text-right">Pris</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product item in Model.checkoutList)
+        {
+            <tr>
+                <td class="text-left">@item.Name</td>
+                <td class="text-left">@item.ProductType</td>
+                <td><img src="~/Images/@item.ImageName" width="60" height="70"></td>
+                <td class="text-left">@item.ProductAmount</td>
+                <td class="text-right">@item.Price.ToString() kr</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Total Pris:</td>
+            <td class="text-right">
+                @Model.totalPrice kr
+            </td>
+        </tr>
+    </tfoot>
+</table>
+<div class="text-center">
+    <a asp-page="ShoppingCart" class="btn btn-primary">Tilbage til indkøbskurv</a>
+    @if (Model.validUser == 1 && Model.checkoutList.Count > 0)
+    {
+        <div class="payButton">
+            <form method="post">
+                <button asp-page-handler="Confirm"
+                        class="btn btn-primary">
+                    Betal
+                </button>
+            </form>
+        </div>
+    }
+</div>

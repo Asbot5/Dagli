@@ -1,0 +1,43 @@
+﻿@page
+@model Dagli.Pages.LoginService.CreateUserModel
+@{
+    ViewData["Title"] = "Opret Bruger";
+}
+
+@if (Model.emailError != null)
+{
+<div class="bg-danger">
+    <h5>
+        @Model.emailError
+    </h5>
+</div>
+}
+
+<div>
+    <h5 class="pageTitle">Udfyld formular for at oprette en bruger</h5>
+    <form method="post">
+        Navn og efternavn:
+        <br />
+        <input name="Navn" type="text" class="form-control input-lg" required autofocus />
+        <br />
+        Vej og nr:
+        <br />
+        <input name="Vej" type="text" class="form-control input-lg" required />
+        <br />
+        Postnummer:
+        <br />
+        <input name="Postnummer" type="number" class="form-control input-lg" required />
+        <br />
+        E-Mail:
+        <br />
+        <input name="Email" type="email" class="form-control input-lg" required />
+        <br />
+        Kodeord:
+        <br />
+        <input name="Password" type="password" class="form-control input-lg" required />
+        <br />
+        <input id="SaveButton" type="submit" value="Opret Bruger" class="btn btn-primary">
+
+        <a asp-page="LoginToSide" class="btn btn-primary">Log ind</a>
+    </form>
+</div>

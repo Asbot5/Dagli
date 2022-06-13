@@ -1,0 +1,34 @@
+﻿@page "{ID}"
+@model Dagli.Pages.Products.SingleProductModel
+@{ ViewData["Title"] = "AllProducts";
+}
+
+<h1 class="pageTitle">@Model.Product.Name</h1>
+<div class="productImage">
+    <img src="~/Images/@Model.Product.ImageName">
+</div>
+
+<p>Beskrivelse: @Model.Product.Description</p>
+<p>Pris: @Model.Product.Price</p>
+
+@if (Model.adminLogIn == 1)
+{
+    <br>
+    <br>
+    <form method="post">
+        <input type="submit"
+               value="Edit"
+               class="btn btn-primary"
+               asp-page="EditProduct" asp-route-id="@Model.Product.ID" />
+    </form>
+
+    <br>
+    <br>
+    <form method="post">
+        <input type="submit"
+               value="Delete"
+               class="btn btn-danger"
+               asp-page-handler="Delete" asp-route-sessioncount="@Model.Product.ID"
+               onclick="return confirm('Er du sikker på at du vil slette dette produkt?')" />
+    </form>
+}

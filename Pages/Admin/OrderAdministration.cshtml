@@ -1,0 +1,63 @@
+﻿@page
+@model Dagli.Pages.Admin.OrderAdministrationModel
+@{ ViewData["Title"] = "OrderAdministration";
+}
+
+<h1 class="pageTitle">Alle Ordrer</h1>
+
+@if (Model.Orders != null && Model.Orders.Count > 0)
+{<h5>Mængden af ordrer er : @Model.Orders.Count</h5>}
+else
+{ <h5>Mængden af ordrer er : 0</h5>}
+
+<form>
+    <p>
+        Filtrer ordrer postnummer: <input type="text" asp-for="Filter" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Kunde Information</th>
+            <th>Indkøbsliste</th>
+            <th class="text-right">Pris</th>
+        </tr>
+    </thead>
+    @if (Model.Orders != null && Model.Orders.Count > 0)
+    {
+        <tbody>
+            @foreach (var item in Model.Orders)
+            {
+                <tr>
+                    <td class="text-center">@item.Key</td>
+                    <td class="text-left">
+                        @item.Value.User.Name <br />
+                        @item.Value.User.Email <br />
+                        @item.Value.User.Street <br />
+                        @item.Value.User.ZipCode
+                    </td>
+                    <td class="text-left">
+                        @foreach (Product product in item.Value.Products)
+                        {
+                            @product.ToString();
+                            <br />
+                        }
+                    </td>
+                    <td class="text-right">@Model.CalculateTotalPrice(item.Key) kr</td>
+                    <td>
+                        <form method="post">
+                            <button asp-page-handler="Delete" asp-route-id="@item.Key"
+                                    class="btn btn-danger btn-group-lg pull-right"
+                                    onclick="return confirm('Er du sikker på at du vil slette denne ordre?')">
+                                Slet ordre
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    }
+</table>

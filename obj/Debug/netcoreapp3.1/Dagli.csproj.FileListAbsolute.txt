@@ -1,0 +1,206 @@
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.exe
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.deps.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.runtimeconfig.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.runtimeconfig.dev.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.dll
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.pdb
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.Views.dll
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.Views.pdb
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.csprojAssemblyReference.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.AssemblyInfoInputs.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.AssemblyInfo.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorAssemblyInfo.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorAssemblyInfo.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.TagHelpers.input.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.TagHelpers.output.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorCoreGenerate.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorTargetAssemblyInfo.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorTargetAssemblyInfo.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.Views.pdb
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\staticwebassets\Dagli.StaticWebAssets.Manifest.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\staticwebassets\Dagli.StaticWebAssets.xml
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.dll
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.pdb
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.genruntimeconfig.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.csproj.CopyComplete
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.csproj.CoreCompileInputs.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Data\JsonProducts.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\AllProducts.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\CreateProduct.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\EditProduct.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\SingleProduct.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\ShoppingCart.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\CheckOut.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Data\jsonLogin.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\LoginService\CreateUser.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\LoginService\LoginToSide.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\Confirmation.cshtml.g.cs
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Data\JsonOrders.json
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderAdministration.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Data\jsonLogin.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Data\JsonOrders.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Data\JsonProducts.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.exe
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.deps.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.runtimeconfig.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.runtimeconfig.dev.json
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.dll
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.pdb
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.Views.dll
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Dagli.Views.pdb
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.csprojAssemblyReference.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.AssemblyInfoInputs.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.AssemblyInfo.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.csproj.CoreCompileInputs.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorAssemblyInfo.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorAssemblyInfo.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.TagHelpers.input.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.TagHelpers.output.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorCoreGenerate.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderAdministration.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\LoginService\CreateUser.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\LoginService\LoginToSide.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\AllProducts.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\CreateProduct.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\EditProduct.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\SingleProduct.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\CheckOut.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\Confirmation.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\ShoppingCart.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorTargetAssemblyInfo.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorTargetAssemblyInfo.cs
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.Views.pdb
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.csproj.CopyComplete
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\staticwebassets\Dagli.StaticWebAssets.Manifest.cache
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\staticwebassets\Dagli.StaticWebAssets.xml
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.dll
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.pdb
+C:\Users\Johan\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Dagli.genruntimeconfig.cache
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Data\jsonLogin.json
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Data\JsonOrders.json
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Data\JsonProducts.json
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Dagli.exe
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Dagli.deps.json
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Dagli.runtimeconfig.json
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Dagli.runtimeconfig.dev.json
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Dagli.dll
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Dagli.pdb
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Dagli.Views.dll
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Dagli.Views.pdb
+C:\Users\krist\Downloads\Dagli\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.csprojAssemblyReference.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.AssemblyInfoInputs.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.AssemblyInfo.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.csproj.CoreCompileInputs.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorAssemblyInfo.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorAssemblyInfo.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\staticwebassets\Dagli.StaticWebAssets.Manifest.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\staticwebassets\Dagli.StaticWebAssets.xml
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dagli.styles.css
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.TagHelpers.input.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.TagHelpers.output.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorCoreGenerate.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderAdministration.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\LoginService\CreateUser.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\LoginService\LoginToSide.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\AllProducts.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\CreateProduct.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\EditProduct.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\SingleProduct.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\CheckOut.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\Confirmation.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\ShoppingCart.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorTargetAssemblyInfo.cache
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorTargetAssemblyInfo.cs
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.Views.pdb
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.csproj.CopyComplete
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.dll
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.pdb
+C:\Users\krist\Downloads\Dagli\obj\Debug\netcoreapp3.1\Dagli.genruntimeconfig.cache
+C:\Users\Minimanx\Dropbox\Skole\Dagli\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Error.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Data\jsonLogin.json
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Data\JsonProducts.json
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Data\JsonOrders.json
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Dagli.exe
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Dagli.deps.json
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Dagli.runtimeconfig.json
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Dagli.runtimeconfig.dev.json
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Dagli.dll
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Dagli.pdb
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Dagli.Views.dll
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Dagli.Views.pdb
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.csprojAssemblyReference.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.AssemblyInfoInputs.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.AssemblyInfo.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.csproj.CoreCompileInputs.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorAssemblyInfo.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorAssemblyInfo.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.TagHelpers.input.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.TagHelpers.output.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorCoreGenerate.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderAdministration.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\LoginService\CreateUser.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\LoginService\LoginToSide.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\AllProducts.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\CreateProduct.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\EditProduct.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Products\SingleProduct.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Error.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\CheckOut.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\Confirmation.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\Shopping\ShoppingCart.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorTargetAssemblyInfo.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.RazorTargetAssemblyInfo.cs
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.Views.pdb
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.csproj.CopyComplete
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\staticwebassets\Dagli.StaticWebAssets.Manifest.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\staticwebassets\Dagli.StaticWebAssets.xml
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.dll
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.pdb
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\Dagli.genruntimeconfig.cache
+C:\Users\Asbot\OneDrive\Skrivebord\Datamatik\Dagli\Dagli (6)\Dagli\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dagli.styles.css

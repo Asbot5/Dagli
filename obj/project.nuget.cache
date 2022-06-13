@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXd+nQSAXmZrdH7pN2sX2e1579E5PxTZ9AibVK0hgXvM2vqOo3RtLOtyjaCG6XUmfSSliMVNYv/b9Mg5gYFNEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asbot\\OneDrive\\Skrivebord\\Datamatik\\Dagli\\Dagli (6)\\Dagli\\Dagli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asbot\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

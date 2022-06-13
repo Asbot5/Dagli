@@ -1,0 +1,187 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #1b1ba1;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b1ba1;
+    border-color: #1b1ba1;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b1ba1;
+    border-color: #1b1ba1;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+  overflow-y: overlay;
+}
+
+#body{
+    margin-top: 5%;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.productImage img {
+    width: 400px;
+    height: auto;
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/*.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}*/
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+#cartImg {
+    width: 3.5em;
+}
+
+.grid {
+    font-family: sans-serif;
+}
+
+.row {
+    justify-content: center;
+}
+
+.productInGrid {
+    width: 23%;
+    border: 2px solid rgba(27,27,161,0.1);
+    overflow: hidden;
+    transition: border .2s;
+    margin: 0.5em;
+}
+
+.productInGrid img {
+        width: 250px;
+        height: 250px;
+        display: block;
+        margin: auto;
+        border: 0px;
+        opacity: 1;
+        transition: all .5s
+    }
+
+.productInGrid img:hover {
+            opacity: 0.8;
+        }
+
+.productInGrid ul {
+        list-style-type: none;
+        padding-inline-start: 10px;
+    }
+
+.button {
+    width: auto;
+    height: 100%;
+    float: right;
+    margin-bottom: 2%;
+    margin-right: 5%;
+}
+
+.productInGrid p {
+    float: right;
+    margin-right: 5%;
+}
+
+.userTable {
+    display: block;
+    margin: .3em;
+    padding: .3em;
+    margin-top: 2em;
+}
+
+.payButton {
+    display:inline-block;
+}
+
+@media screen and (max-width:990px) {
+    .productInGrid {
+        width: 40%;
+    }
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .productInGrid {
+        width: 80%;
+    }
+}
+
+/* Custom CSS Elements
+-------------------------------------------------- */
+.headlineText {
+    font-size: 2em;
+}
+
+.pageTitle {
+    color: #1b1ba1;
+}
+
+.footerText {
+    margin: auto;
+    text-align: center;
+}
+
+.hero {
+    text-align: center;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

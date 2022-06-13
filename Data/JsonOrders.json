@@ -1,0 +1,137 @@
+{
+  "1": {
+    "ID": 1,
+    "Products": [
+      {
+        "ID": 1,
+        "Name": "Kød",
+        "Description": "Mørt bøf kød. Det smager super godt!",
+        "Price": 90.99,
+        "ImageName": "entrecoteboef.jpg",
+        "ProductType": "Fisk og kød",
+        "ProductAmount": 3
+      }
+    ],
+    "User": {
+      "Name": "Mads SuperCool",
+      "Email": "mads@mail.dk",
+      "Password": "AQAAAAEAACcQAAAAEBGMGr7C8f6hrYj/laM7b5xQJCUWxFttXSFY7NytqTxZf1XtAsCAcwEpHHMGxq2ShA==",
+      "Street": "Madsvej 20",
+      "ZipCode": 5000
+    }
+  },
+  "2": {
+    "ID": 2,
+    "Products": [
+      {
+        "ID": 1,
+        "Name": "Kød",
+        "Description": "Mørt bøf kød. Det smager super godt!",
+        "Price": 90.99,
+        "ImageName": "entrecoteboef.jpg",
+        "ProductType": "Fisk og kød",
+        "ProductAmount": 5
+      },
+      {
+        "ID": 6,
+        "Name": "Thai Cube",
+        "Description": "En fryst firkant fra Thailand. Der er sikkert noget lækkert inden i",
+        "Price": 20.99,
+        "ImageName": "thaicube.jpg",
+        "ProductType": "Frysevarer",
+        "ProductAmount": 1
+      },
+      {
+        "ID": 7,
+        "Name": "Tulipan Buket",
+        "Description": "Fine blomster til haven eller til huset eller til værelset eller til diskoteket",
+        "Price": 59.99,
+        "ImageName": "tulipanbuket.jpg",
+        "ProductType": "Hus og have",
+        "ProductAmount": 1
+      },
+      {
+        "ID": 5,
+        "Name": "Laksefilet",
+        "Description": "Laksefilet perfekt til at skære i mindre stykker og bruges i madlavning, eller behold det i et stort stykke og brug det i sushi",
+        "Price": 33.99,
+        "ImageName": "laksefilet.jpg",
+        "ProductType": "Fisk og kød",
+        "ProductAmount": 1
+      },
+      {
+        "ID": 8,
+        "Name": "Cashewnødder",
+        "Description": "Cashewnødder der giver lidt crunch når man bider i dem",
+        "Price": 17.99,
+        "ImageName": "cashews.jpg",
+        "ProductType": "Diverse",
+        "ProductAmount": 1
+      }
+    ],
+    "User": {
+      "Name": "Mads SuperCool",
+      "Email": "mads@mail.dk",
+      "Password": "AQAAAAEAACcQAAAAEBGMGr7C8f6hrYj/laM7b5xQJCUWxFttXSFY7NytqTxZf1XtAsCAcwEpHHMGxq2ShA==",
+      "Street": "Madsvej 20",
+      "ZipCode": 5000
+    }
+  },
+  "3": {
+    "ID": 3,
+    "Products": [
+      {
+        "ID": 4,
+        "Name": "Bernaise",
+        "Description": "Man kan NÆSTEN drikke bernaise",
+        "Price": 25.99,
+        "ImageName": "bernaise.jpg",
+        "ProductType": "Diverse",
+        "ProductAmount": 1
+      },
+      {
+        "ID": 3,
+        "Name": "Broccoli",
+        "Description": "Du skal spise dine grøntsager, denne broccoli",
+        "Price": 12.99,
+        "ImageName": "broccholi.jpg",
+        "ProductType": "Frugt og grønt",
+        "ProductAmount": 1
+      },
+      {
+        "ID": 8,
+        "Name": "Cashewnødder",
+        "Description": "Cashewnødder der giver lidt crunch når man bider i dem",
+        "Price": 17.99,
+        "ImageName": "cashews.jpg",
+        "ProductType": "Diverse",
+        "ProductAmount": 1
+      },
+      {
+        "ID": 2,
+        "Name": "Mælk",
+        "Description": "Super lækker mælk, der er let at drikke. Direkte fra ko til karton!",
+        "Price": 5.99,
+        "ImageName": "uht-behandlet_maelk.png",
+        "ProductType": "Drikkevarer",
+        "ProductAmount": 1
+      },
+      {
+        "ID": 5,
+        "Name": "Laksefilet",
+        "Description": "Laksefilet perfekt til at skære i mindre stykker og bruges i madlavning, eller behold det i et stort stykke og brug det i sushi",
+        "Price": 33.99,
+        "ImageName": "laksefilet.jpg",
+        "ProductType": "Fisk og kød",
+        "ProductAmount": 3
+      }
+    ],
+    "User": {
+      "Name": "Mads SuperCool",
+      "Email": "mads@mail.dk",
+      "Password": "AQAAAAEAACcQAAAAEBGMGr7C8f6hrYj/laM7b5xQJCUWxFttXSFY7NytqTxZf1XtAsCAcwEpHHMGxq2ShA==",
+      "Street": "Madsvej 20",
+      "ZipCode": 5000
+    }
+  }
+}

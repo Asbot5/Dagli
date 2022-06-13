@@ -1,0 +1,93 @@
+﻿@page
+
+@model Dagli.Pages.Shopping.ShoppingCartModel
+@{
+    ViewData["Title"] = "Indkøbskurv";
+}
+<h1 class="pageTitle">Indkøbskurv</h1>
+
+@if (Model.ShoppingList != null && Model.ShoppingList.Count > 0)
+{<h5>Mængden af produkter i din indkøbskurv er : @Model.ShoppingList.Count</h5>}
+else
+{ <h5>Ingen produkter i din indkøbskurv</h5>}
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Produkt</th>
+            <th>Type</th>
+            <th>Billede</th>
+            <th>Antal</th>
+            <th class="text-right">Pris Stk</th>
+            <th class="text-right">Pris</th>
+        </tr>
+    </thead>
+    @if (Model.ShoppingList.Count != 0)
+    {
+    <tbody>
+        @foreach (Product item in Model.ShoppingList)
+        {
+        <tr>
+            <td class="text-center">@item.Name</td>
+            <td class="text-left">@item.ProductType</td>
+            <td>
+                <img src="~/Images/@item.ImageName" width="60" height="70">
+            </td>
+            <td class="text-center">
+                <div class="float-right">
+                    <form method="post">
+                        <button asp-page-handler="AddAmount" asp-route-id="@item.ID"
+                                class="btn btn-light btn-outline-success btn-group-lg float-right">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-plus-circle" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                                <path fill-rule="evenodd" d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                            </svg>
+                        </button>
+                    </form>
+                </div>
+                @item.ProductAmount
+                <div class="float-left">
+                    <form method="post">
+                        <button asp-page-handler="ReduceAmount" asp-route-id="@item.ID"
+                                class="btn btn-light btn-outline-danger btn-group-lg float-right">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-dash-circle" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                                <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z" />
+                            </svg>
+                        </button>
+                    </form>
+                </div>
+            </td>
+            <td class="text-right">@item.Price.ToString() kr</td>
+            <td class="text-right">
+                @{var total = item.Price*item.ProductAmount;}
+                        @total.ToString() kr
+                    </td>
+            <td>
+                <form method="post">
+                    <button asp-page-handler="Delete" asp-route-id="@item.ID"
+                            class="btn btn-danger btn-group-lg pull-right">
+                        Fjern fra kurv
+                    </button>
+                </form>
+            </td>
+        </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="5" class="text-right">Total price:</td>
+            <td class="text-right">
+                @Model.CartService.CalculateTotalPrice().ToString() kr
+            </td>
+        </tr>
+    </tfoot>
+    }
+</table>
+<div class="text-center">
+    <a asp-page="/Products/AllProducts" class="btn btn-primary">Tilbage til produkter</a>
+    @if (Model.ShoppingList.Count > 0)
+    {
+        <a asp-page="CheckOut" class="btn btn-primary">Bestil dine varer</a>
+    }
+</div>

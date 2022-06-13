@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "admin",
+    "Email": "admin@admin.dk",
+    "Password": "AQAAAAEAACcQAAAAEFC+KLto1b8dOq8OLInh9uNzySBGV3ZGlGWs68P8cwx3eXA9e+UMCnb8oIueyNrxJQ==",
+    "Street": null,
+    "ZipCode": 0
+  },
+  {
+    "Name": "Mads SuperCool",
+    "Email": "mads@mail.dk",
+    "Password": "AQAAAAEAACcQAAAAEBGMGr7C8f6hrYj/laM7b5xQJCUWxFttXSFY7NytqTxZf1XtAsCAcwEpHHMGxq2ShA==",
+    "Street": "Madsvej 20",
+    "ZipCode": 5000
+  },
+  {
+    "Name": "Johan",
+    "Email": "johan@mail.dk",
+    "Password": "AQAAAAEAACcQAAAAEOJXAWU/gP+su+UkHgPsYR3QXdRzXtSFGVmz1X7zZky0L0e8kjx2ms06Po8kRjUwNw==",
+    "Street": "Johanvej 14",
+    "ZipCode": 1333
+  }
+]
